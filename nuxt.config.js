@@ -48,8 +48,7 @@ export default {
         url: 'https://portalverse.net',
         title: 'Portalverse',
         site_name: 'Portalverse',
-        description:
-          'Portalverse is a decentralized cloud gaming network for open & highly immersive virtual worlds. Enabling players with low threshold computing power to enter the Metaverse.',
+        description: "Powering humanity's immersion in the metaverse",
         img: '/meta.jpg',
         img_size: { width: '1200', height: '630' },
         locale: 'en_US',
