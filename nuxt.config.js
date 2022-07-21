@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Portalverse',
+    title: "Portalverse - Powering humanity's immersion in the metaverse",
     htmlAttrs: {
       lang: 'en',
     },
@@ -47,7 +47,8 @@ export default {
       {
         url: 'https://portalverse.net',
         title: 'Portalverse',
-        site_name: 'Portalverse',
+        site_name:
+          "Portalverse - Powering humanity's immersion in the metaverse",
         description: "Powering humanity's immersion in the metaverse",
         img: '/meta.jpg',
         img_size: { width: '1200', height: '630' },
